@@ -1,0 +1,562 @@
+{
+    "cinema": [
+        {
+            "store": "大地影院（奥体高德美居店）",
+            "address": "天河区奥体南路12号高德美居家居馆3楼（近天河百货）",
+            "consumption": "28.9",
+            "label": [
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                }
+            ],
+            "card": "首单1张最高立减10元",
+            "distance": "700m"
+        },
+        {
+            "store": "中影环球影城（珠村店）",
+            "address": "天河区中山大道1088号博裕广场3楼（珠村BRT公交站和乐购旁边）",
+            "consumption": "28.9",
+            "label": [
+                {
+                    "ticket": "退",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                }
+            ],
+            "card": "首单2张最高立减6元",
+            "distance": "1.8km"
+        },
+        {
+            "store": "DY影城（漫广场LUXE店）",
+            "address": "天河区中山大道1242号漫广场5楼",
+            "consumption": "36",
+            "label": [
+                {
+                    "ticket": "退",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "杜比全景声厅",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "LUXE巨幕厅",
+                    "type": "blue"
+                }
+            ],
+            "card": "首单2张最高立减6元",
+            "distance": "2.3km"
+        },
+        {
+            "store": "FUN范影城（东圃·杜比巨幕）",
+            "address": "天河区东圃大马路4号四季时尚荟A栋1楼（近东圃购物中心）",
+            "consumption": "23",
+            "label": [
+                {
+                    "ticket": "退",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "杜比全景声厅",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "巨幕厅",
+                    "type": "blue"
+                }
+            ],
+            "card": "首单2张最高立减4元",
+            "distance": "2.6km"
+        },
+        {
+            "store": "车陂国际影城（东圃·车陂店）",
+            "address": "天河区中山大道87号苏宁生活广场3楼（靠近车陂地铁站D出口，车陂BRT站）（靠近车陂地铁站D出口，车陂BRT站）",
+            "consumption": "23",
+            "label": [
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                }
+            ],
+            "card": "首单2张最高立减6元",
+            "distance": "2.9km"
+        },
+        {
+            "store": "东圃摩登电影城（东圃大马路店）",
+            "address": "天河区东圃大马路14号东圃摩登城3楼（近红十字医院）",
+            "consumption": "28",
+            "label": [
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                }
+            ],
+            "card": "首单2张最高立减6元",
+            "distance": "2.9km"
+        },
+        {
+            "store": "龙影国际影城（棠下店）",
+            "address": "天河区棠德南路44号乐天棠德广场2楼",
+            "consumption": "23",
+            "label": [
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                }
+            ],
+            "card": "首单2张最高立减4元",
+            "distance": "4.2km"
+        },
+        {
+            "store": "万达影城（天河万科广场店）",
+            "address": "天河区华观路1932号天河万科广场4层",
+            "consumption": "40.9",
+            "label": [
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "IMAX厅",
+                    "type": "blue"
+                }
+            ],
+            "card": "首单1张最高立减1元",
+            "distance": "4.2km"
+        },
+        {
+            "store": "哈艺时尚影城（合生骏景店）",
+            "address": "天河区中山大道西1138号合生骏景广场三楼",
+            "consumption": "24",
+            "label": [
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                }
+            ],
+            "card": "首单2张最高立减2元",
+            "distance": "4.3km"
+        },
+        {
+            "store": "中影南方ONE影城",
+            "address": "天河区中山大道西1132号汇鑫大厦一楼",
+            "consumption": "28",
+            "label": [
+                {
+                    "ticket": "退",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "DTS:X临近音厅",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "儿童厅",
+                    "type": "blue"
+                }
+            ],
+            "card": "",
+            "distance": "4.4km"
+        },
+        {
+            "store": "DY影城（漫广场LUXE店）",
+            "address": "天河区中山大道1242号漫广场5楼",
+            "consumption": "36",
+            "label": [
+                {
+                    "ticket": "退",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "DTS:X临近音厅",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "儿童厅",
+                    "type": "blue"
+                }
+            ],
+            "card": "",
+            "distance": "2.3km"
+        },
+        {
+            "store": "FUN范影城（东圃·杜比巨幕）",
+            "address": "天河区中山大道西1132号汇鑫大厦一楼",
+            "consumption": "23",
+            "label": [
+                {
+                    "ticket": "退",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "DTS:X临近音厅",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "儿童厅",
+                    "type": "blue"
+                }
+            ],
+            "card": "",
+            "distance": "2.6km"
+        },
+        {
+            "store": "车陂国际影城（东圃·车陂店）",
+            "address": "天河区中山大道87号苏宁生活广场3楼（靠近车陂地铁站D出口，车陂BRT站）（靠近车陂地铁站D出口，车陂BRT站）",
+            "consumption": "25",
+            "label": [
+                {
+                    "ticket": "退",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "DTS:X临近音厅",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "儿童厅",
+                    "type": "blue"
+                }
+            ],
+            "card": "",
+            "distance": "2.9km"
+        },
+        {
+            "store": "东圃摩登电影城（东圃大马路店）",
+            "address": "天河区中山大道87号苏宁生活广场3楼（靠近车陂地铁站D出口，车陂BRT站）（靠近车陂地铁站D出口，车陂BRT站）",
+            "consumption": "29",
+            "label": [
+                {
+                    "ticket": "退",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "DTS:X临近音厅",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "儿童厅",
+                    "type": "blue"
+                }
+            ],
+            "card": "",
+            "distance": "4.9km"
+        },
+        {
+            "store": "龙影国际影城（棠下店）",
+            "address": "天河区棠德南路44号乐天棠德广场2楼",
+            "consumption": "40",
+            "label": [
+                {
+                    "ticket": "退",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "DTS:X临近音厅",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "儿童厅",
+                    "type": "blue"
+                }
+            ],
+            "card": "",
+            "distance": "4.0km"
+        },
+        {
+            "store": "万达影城（天河万科广场店）",
+            "address": "天河区华观路1932号天河万科广场4层",
+            "consumption": "35",
+            "label": [
+                {
+                    "ticket": "退",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "DTS:X临近音厅",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "儿童厅",
+                    "type": "blue"
+                }
+            ],
+            "card": "",
+            "distance": "4.1km"
+        },
+        {
+            "store": "哈艺时尚影城（合生骏景店）",
+            "address": "天河区中山大道西1138号合生骏景广场三楼",
+            "consumption": "36",
+            "label": [
+                {
+                    "ticket": "退",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "DTS:X临近音厅",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "儿童厅",
+                    "type": "blue"
+                }
+            ],
+            "card": "",
+            "distance": "4.7km"
+        },
+        {
+            "store": "畅悦影城（黄埔星荟城店）",
+            "address": "黄埔区荔香路50号星荟城二楼",
+            "consumption": "34",
+            "label": [
+                {
+                    "ticket": "退",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "改签",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "小吃",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "折扣卡",
+                    "type": "yellow"
+                },
+                {
+                    "ticket": "DTS:X临近音厅",
+                    "type": "blue"
+                },
+                {
+                    "ticket": "儿童厅",
+                    "type": "blue"
+                }
+            ],
+            "card": "",
+            "distance": "4.2km"
+        }
+    ],
+        "eatings":[
+            {
+            "images":"//p1.meituan.net/440.0/movie/e58bca6e161130075f2e85a226485b87148661.jpg@750w_750h_1e_1c",
+            "double":"双人",
+            "package":"中爆米花1桶+果茶/果汁(2选1)",
+            "price":"33",
+            "count":"已售1151件"
+        },
+        {
+            "images":"//p0.meituan.net/440.0/movie/bd0c930a25c8df55f4aa137b14a2b6a2150041.jpg@750w_750h_1e_1c",
+            "double":"双人",
+            "package":"中爆米花1桶+现调饮料2杯（冷热饮全场任选）",
+            "price":"36.8",
+            "count":"已售149件"
+        },
+        {
+            "images":"//p0.meituan.net/440.0/movie/e02dc12da1474e17250be8f3d9d1dcca128997.jpg@388w_388h_1e_1c",
+            "single":"单人",
+            "package":"小爆米花1桶+果茶1杯/果汁1杯(2选1)",
+            "price":"19.8",
+            "count":"已售2390件"
+        },
+        {
+            "images":"//p0.meituan.net/440.0/movie/d92d43bf9ba92f4d04930c86da137e01153316.jpg@750w_750h_1e_1c",
+            "single":"单人",
+            "package":"中爆米花1桶+现调饮料1杯（冷热饮全场任选）",
+            "price":"28.8",
+            "count":"已售34件"
+        },
+        {
+            "images":"//p0.meituan.net/440.0/movie/d6476a20ae07a0e314158e3d1ddc240b147349.jpg@750w_750h_1e_1c",
+            "single":"单人",
+            "package":"中桶爆米花+1杯饮料（果茶或果汁）",
+            "price":"26.67",
+            "count":"已售8件"
+        },
+        {
+            "images":"//p0.meituan.net/440.0/movie/005bad150a6747ec48c0d56fb232cca1172571.jpg@750w_750h_1e_1c",
+            "doubles":"多人",
+            "package":"大桶爆米花+3杯饮料（果茶或果汁）",
+            "price":"44",
+            "count":"已售339件"
+        }
+    ]
+}
